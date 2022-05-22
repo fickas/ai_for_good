@@ -1,0 +1,5 @@
+text,it,was,the,best,of,times,worst,age,wisdom,foolishness,sentiment
+it was the best of times,1,1,1,1,1,1,0,0,0,0,1
+it was the worst of times,1,1,1,0,1,1,1,0,0,0,0
+it was the age of wisdom,1,1,1,0,1,0,0,1,1,0,1
+it was the age of foolishness,1,1,1,0,1,0,0,1,0,1,0
